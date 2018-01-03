@@ -1,43 +1,17 @@
 ## mocha单元测试
 
 * [] 异步
+  * [] 异步调用接口的测试，根据项目
 * [] 请求
 
+
+* 添加tree结构`tree -L 1 >p.md`
 ```
-.
 ├── README.md
-├── add.js
-├── add.test.js
-├── index.html
-├── mocha.css
-├── mocha.js
+├── demo1 测试加法函数的例子
+├── demo2 异步
 ├── node_modules
-│   ├── assertion-error
-│   ├── chai
-│   ├── check-error
-│   ├── deep-eql
-│   ├── get-func-name
-│   ├── pathval
-│   └── type-detect
+├── p.md
 ├── package-lock.json
-├── package.json
-└── tests.js
+└── package.json
 ```
-.
-├── README.md
-├── add.js
-├── add.test.js
-├── index.html
-├── mocha.css
-├── mocha.js
-├── node_modules
-│   ├── assertion-error
-│   ├── chai
-│   ├── check-error
-│   ├── deep-eql
-│   ├── get-func-name
-│   ├── pathval
-│   └── type-detect
-├── package-lock.json
-├── package.json
-└── tests.js

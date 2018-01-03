@@ -1,5 +1,5 @@
 var add = require('./add.js');
-var expect = require('chai').expect;
+var expect = require('chai').expect; // 添加断言
 
 // 测试脚本里面应该包括一个或多个describe块
 // 每个describe块应该包括一个或多个it块。
